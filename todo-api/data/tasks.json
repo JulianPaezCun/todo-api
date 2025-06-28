@@ -1,0 +1,5 @@
+//datos de prueba para la funcionalidad de tareas
+[
+  { "id": 1, "title": "Estudiar AWS", "completed": false },
+  { "id": 2, "title": "Implementar API", "completed": true }
+]
